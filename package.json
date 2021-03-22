@@ -1,0 +1,11 @@
+{
+  "name": "discord-template",
+  "version": "1.0.0",
+  "description": "A simple template for your Discord bot",
+  "main": "index.js",
+  "author": "ZerioDev",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
