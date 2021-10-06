@@ -26,6 +26,6 @@ module.exports = {
         embed.setTimestamp();
         embed.setFooter('Template by ZerioDev/Discord-template');
 
-        message.channel.send(embed);
+        message.channel.send({ embeds: [embed] });
     },
 };
